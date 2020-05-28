@@ -1,0 +1,1 @@
+<img  src="img/struktur.png" width="1000px" height="500px">
